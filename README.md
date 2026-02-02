@@ -1,6 +1,7 @@
 # Advance-AI-ML-Detailed-Notes
 
 Python_CheatSheet
+
           |--->Beginner
                       |---> Python Beginner 1A
                       |---> Python Beginner 1B
@@ -23,4 +24,5 @@ Numpy_Class
           |---> Class-3: Food_Delivery_Data_Exploration_and_analysis_3.ipynb
           
 Pandas_class
+
           |---> Class-1: Food_Delivery_Data_Exploration_and_analysis_4.ipynb
