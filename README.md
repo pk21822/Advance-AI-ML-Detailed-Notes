@@ -1,3 +1,5 @@
+# Here you can find complete notes structure for the entire course
+
 # Advance-AI-ML-Detailed-Notes
 
 Python_CheatSheet
